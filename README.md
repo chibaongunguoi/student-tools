@@ -1,6 +1,6 @@
 # student-tools
 
-A small collection of student utilities.
+Small utilities for learning and practicing open-source development workflows.
 
 ## Converter
 
